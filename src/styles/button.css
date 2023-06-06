@@ -1,0 +1,17 @@
+*{
+    --verde: #31CA82;
+    --azul: #31B8C8;
+
+}
+
+#request{
+    background-image: linear-gradient(90deg, var(--verde), var(--azul));
+    border-radius: 1.5rem;
+    padding: .78rem;
+    color: #fff;
+    font-size: 1rem;
+    margin-right: 10rem;
+    cursor: pointer;
+    border: none;
+    width: 10rem;
+}

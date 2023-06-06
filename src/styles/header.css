@@ -1,0 +1,26 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100vw;
+    height: 4rem;
+    border-bottom: #5e5d5d;
+    --verde: #31CA82;
+    --azul: #31B8C8;
+    background-color: #ffff;
+}
+
+a{
+    margin-right: 1rem;
+    text-decoration: none;
+    color:#5e5d5d;
+}
+
+a:hover{
+    color: var(--verde)
+}
+
+.logo{
+    margin-left: 5rem;
+}
+
